@@ -1,4 +1,4 @@
-# Richard-cases
+
 #case 1 
 import torch
 import torch.nn as nn
@@ -94,7 +94,7 @@ for epoch in range(iterations):
         print(epoch, "Training Loss:", loss.item())
 
 
-  # case 2
+
 
   import torch
 import torch.nn as nn
