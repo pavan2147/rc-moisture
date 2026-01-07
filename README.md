@@ -1,5 +1,5 @@
 \begin{algorithm}
-\caption{Step-by-step algorithm for solving Richards' Equation using Physics-Informed Neural Networks (PINNs)}
+\caption{Step-by-step algorithm for  Physics-Informed Neural Networks (PINNs)}
 \begin{algorithmic}[1]
 \Statex \textbf{Inputs:}
 \Statex \quad Neural network $\bar\theta(z, t; \Theta)$ with parameters $\Theta$
